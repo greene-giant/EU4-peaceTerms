@@ -1,0 +1,8 @@
+# Colors:
+G = green
+B = Blue
+R = red
+Y = yellow
+b = black
+g = grey
+W = white?

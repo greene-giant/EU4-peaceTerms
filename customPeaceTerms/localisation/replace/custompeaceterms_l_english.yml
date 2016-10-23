@@ -1,0 +1,12 @@
+﻿l_english:
+ PEACEACCEPT_5:0 "peace offer with the following terms.\n"
+ PEACEACCEPT_6:0 "$TERMS$"
+ PEACEACCEPTOTHER_6:0 "on the following terms:\n\n$TERMS$"
+ WAR_REPARATIONS_DESC:0 "$FROM|R$ will be forced to give $TO|G$ $VALUE|0%$ of their income each month for $YEARS$ years as §YWar Reparations§W.\n"
+ SECEDE_PROVINCES:0 "$WHO|R$ will cede $WHAT|Y$ to $TO|G$.\n"
+ WEANNEX:0 "We demand their §Yfull Annexation§!.\n"
+ OTHERANNEX:0 "§YFull Annexation§! was demanded.\n"
+ CONVERT_RELIGION:0 "$WHO|R$ will §Yconvert§W to $RELIGION|G$.\n"
+ PAY_CASH_TO:0 "$WHO|R$ will pay §Y$WHAT$§! ducats to $WHOM|G$.\n"
+ PAY_CASH_TO_MULTIPLE:0 "$WHO|R$ will pay §Y$WHAT$§! ducats to $WHOM|G$ and its §Gallies§!.\n"
+ TREATIES_TO_ANNUL:0 "$WHO|R$ will §Yannul all treaties§! with $WHAT|G$.\n"
