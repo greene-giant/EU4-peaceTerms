@@ -18,6 +18,7 @@
  TRANSFER_TRADE_POWER_TO_DESC:0 "$FROM|R$ will transfer $AMOUNT|Y%1$ of its §YTrade Power§! to $TO|G$, in trade nodes where they both have power. This will remain active for the duration of the truce.\n"
  COUNTRY_RELEASE:0 "$WHO|R$ will release $WHAT|Y$ as a sovereign state.\n"
  VASSAL_GIVEUP:0 "$WHO|R$ will end their overlordship over $WHAT|Y$.\n"
+ PEACE_GRANT_INDEPENDANCE:0 "$DEFENDER|R$ will grant §Yindependence§! to $ATTACKER|G$."
  PEACE_OFFER_POWER_COST:0 "This peace will cost $WHO|G$ $COST|Y$£dip .\n"
  PEACE_EFFECTS_BADBOY:0 "With $THE$$CASUS$ Casus Belli, $ACTIVE|G$ suffers $BADBOY$ §YAggressive Expansion§!.\n"
  PEACE_DEFENDER_EFFECTS_BADBOY:0 "As a defender, $ACTIVE|G$ suffers $BADBOY$ §YAggressive Expansion§!.\n"
