@@ -1,4 +1,4 @@
-name="Custom Peace Terms"
+name="Greene Giant :: Peace Terms"
 path="mod/customPeaceTerms"
 
-supported_version="1.20.*"
+supported_version="1.23.*"
