@@ -15,6 +15,7 @@
  PEACEOFFER_INFLATION:0 "This will result in $INFLATION$ inflation for $ACTIVE|G$.\n"
  TREATIES_TO_ANNUL:0 "$WHO|R$ will §Yannul all treaties§! with $WHAT|Y$.\n"
  CORE_GIVEUP:0 "$WHO|R$ will renounce their claims on $WHAT|Y$.\n"
+ GIVE_UP_CLAIMS_TOOLTIP:0 "$WHO|R$ and its subjects give up all claims in $TARGET|Y$.\n" 
  TRANSFER_TRADE_POWER_TO_DESC:0 "$FROM|R$ will transfer $AMOUNT|Y%1$ of its §YTrade Power§! to $TO|G$, in trade nodes where they both have power. This will remain active for the duration of the truce.\n"
  COUNTRY_RELEASE:0 "$WHO|R$ will release $WHAT|Y$ as a sovereign state.\n"
  VASSAL_GIVEUP:0 "$WHO|R$ will end their overlordship over $WHAT|Y$.\n"
